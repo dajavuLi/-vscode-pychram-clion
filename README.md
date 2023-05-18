@@ -15,6 +15,7 @@
 
 [详见有道云笔记](https://note.youdao.com/s/CisHoFe)
 > 看完这篇笔记你不会再有如何搭建一个C语言开发环境的困惑
+
 > 搭建环境只是开始，等待你的将是优雅的界面和迷人的C世界
 - 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
 - 在这篇笔记中同样也介绍了多文件程序开发，例如：构造一个学生信息管理系统
@@ -28,6 +29,7 @@
 
 [详见有道云笔记](https://note.youdao.com/s/QRXR7oEg)
 > 在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
+> 
 > 在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
 
 &emsp;
