@@ -6,7 +6,7 @@
 
 [文档目录](#)（更新于2023-05-27）
 
-程序开发排(遇)错(坑)集锦[#jump1]
+- 程序开发排(遇)错(坑)集锦(#jump1)
 - [基于vscode的c程序开发](#jump2)
 - [基于CLion 和 CubeMx 的STM32开发](#jump3)
 - [基于CubeMx 和 KEIL 的STM32开发](#jump4)
