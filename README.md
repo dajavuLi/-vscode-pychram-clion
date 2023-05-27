@@ -5,15 +5,17 @@
 **在不同的版本环境操作细节也许有别，如果按照笔记的方法操作未能通过，请您理解，更不要钻入牛角尖**
 
 [文档目录](#)（更新于2023-05-27）
-程序开发排(遇)错(坑)集锦[^1]
+程序开发排(遇)错(坑)集锦(#jump_20)[^1]
 - [基于vscode的c程序开发](#jump_2)
 - [基于CLion 和 CubeMx 的STM32开发](#jump_3)
 - [基于CubeMx 和 KEIL 的STM32开发](#jump_4)
 - [基于Pychram的python程序开发](#jump_5)
 
 &emsp;
+
 <a id="footnote-1"></a>
-[^1]:### [程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)
+<a id="jump_20"></a>
+### [程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)
 
 ### <a id="jump_1">[程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)</a>
 ---
