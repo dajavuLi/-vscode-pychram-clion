@@ -14,7 +14,7 @@
 
 &emsp;
 
-<a id="footnote-1">### [程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)</a>
+[^1]:### [程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)
 
 ### <a id="jump1">[程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)</a>
 ---
