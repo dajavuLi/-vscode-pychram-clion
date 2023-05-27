@@ -5,17 +5,14 @@
 &emsp;
 23.5.27更新：
 
-- 完善了基于vscode的c程序开发，完善了基于Pychram的python程序开发.
-- 新增加基于CLion的STM32开发
+- ....
 
 &emsp;
 23.5.19更新：
 
-- 完善了基于vscode的c程序开发，完善了基于Pychram的python程序开发.
-- 新增加基于CLion的STM32开发
-
+- ...
+- 
 &emsp;
-
 
 **基于vscode的c程序开发**
 
@@ -30,6 +27,7 @@
 [详见有道云笔记](https://note.youdao.com/s/CisHoFe)
 
 &emsp;
+
 **基于CLion 和 CubeMx 的STM32开发**
 
 - 在这篇笔记介绍了在CLion中调试STM32单片机需要的环境，在windows下需要安装如下软件：
@@ -45,6 +43,7 @@
 
 
 &emsp;
+
 **基于CubeMx 和 KEIL 的STM32开发**
 
 - 在这篇笔记介绍了如何使用CubeMx构建基于KEIL的STM32工程
