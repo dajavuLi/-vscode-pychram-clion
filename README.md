@@ -2,16 +2,12 @@
 
 **初学者需要注意的是有些操作细节并不尽相同，要学会变通，尽量去想为什么要这样做，一味的按照步骤进行容易钻入牛角尖**
 
+**[程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)**
+
 &emsp;
 23.5.27更新：
-
-- ....
-
 &emsp;
 23.5.19更新：
-
-- ...
-- 
 &emsp;
 
 **基于vscode的c程序开发**
@@ -58,10 +54,11 @@
 &emsp;
 **基于Pychram的python程序开发**
 
-[详见有道云笔记](https://note.youdao.com/s/QRXR7oEg)
 > 在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
 
 > 在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
+
+[详见有道云笔记](https://note.youdao.com/s/QRXR7oEg)
 
 
 
