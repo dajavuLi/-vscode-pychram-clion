@@ -1,22 +1,22 @@
-**目录(Contents)**
-- 程序开发排(遇)错(坑)集锦(23.5.27)
-- 基于vscode的c程序开发(23.5.19)
+**目录(Contents)**(update23.5.27)
+- 程序开发排(遇)错(坑)集锦
+- 基于vscode的c程序开发
 - 基于CLion 和 CubeMx 的STM32开发
 - 基于CubeMx 和 KEIL 的STM32开发
 - 基于Pychram的python程序开发
 &emsp;
-
+---
 **笔者在编程开发时为了搭建下面的这些环境走了很多的弯路，所以将这些问题尽可能详细的记录下来，希望能够帮助到有缘人**
 
 **初学者需要注意的是有些操作细节并不尽相同，要学会变通，尽量去想为什么要这样做，一味的按照步骤进行容易钻入牛角尖**
 
 &emsp;
-
+---
 **[程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)**
 > 这篇笔记列出了笔者在进行开发时的踩过的坑
 
 &emsp;
-
+---
 **[基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)**
 
 > 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
@@ -28,7 +28,7 @@
 - 搭建环境只是开始，等待你的将是优雅的界面和迷人的C世界
 
 &emsp;
-
+---
 **[基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)**
 
 > 在这篇笔记介绍了在CLion中调试STM32单片机需要的环境，在windows下需要安装如下软件：
@@ -44,7 +44,7 @@
 
 
 &emsp;
-
+---
 **[基于CubeMx 和 KEIL 的STM32开发](https://note.youdao.com/s/OiOrOPUA)**
 
 > 在这篇笔记介绍了如何使用CubeMx构建基于KEIL的STM32工程
@@ -58,7 +58,7 @@
 
 
 &emsp;
-
+---
 **[基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)**
 
 > 在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
