@@ -12,8 +12,6 @@
 - [基于Pychram的python程序开发]
 &emsp;
 
-：[我是页内的超链接](#jump_1)
-
 
 &emsp;
 
