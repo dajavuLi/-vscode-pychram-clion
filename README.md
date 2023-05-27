@@ -1,3 +1,7 @@
+23.5.27更新：
+
+- 完善了基于vscode的c程序开发，完善了基于Pychram的python程序开发.
+- 新增加基于CLion的STM32开发
 23.5.19更新：
 
 - 完善了基于vscode的c程序开发，完善了基于Pychram的python程序开发.
@@ -22,8 +26,20 @@
   - 多文件程序通常指包含多个头文件和源文件，他们彼此之间互相调用和依赖
 - 在这篇笔记中也介绍了 vscode 终端打印乱码等常见故障的排除方法
 
+&emsp;
+
+**基于CLion 和 CubeMx 的STM32开发**
+
+[详见有道云笔记](https://note.youdao.com/s/OiOrOPUA)
 
 &emsp;
+
+**基于CubeMx 和 KEIL 的STM32开发**
+
+[详见有道云笔记](https://note.youdao.com/s/OiOrOPUA)
+
+&emsp;
+
 
 **基于Pychram的python程序开发**
 
@@ -31,12 +47,6 @@
 > 在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
 
 > 在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
-
-&emsp;
-
-**基于CLion的STM32开发**
-
-[详见有道云笔记](https://note.youdao.com/s/OiOrOPUA)
 
 
 
