@@ -24,7 +24,7 @@
 &emsp;
 ---
 #### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
-<details><summary>在windows下需要安装如下软件：</summary>
+<details><summary>首先要确保在windows下搭建好这些环境</summary>
  <p>
  STM32CubeMX   (用来自动化配置和生成代码)
   
@@ -40,7 +40,7 @@
  </p>
  </details>
  
-- 这篇笔记介绍了在CLion中调试STM32单片机需要的环境
+- 这篇笔记对于上述开发环境
 - 在这篇笔记中详细的介绍了针对 STM32 开发的 CLion 的配
 
 
