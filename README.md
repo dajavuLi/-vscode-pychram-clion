@@ -9,7 +9,7 @@
 - [x] 2. 基于vscode的c程序开发
 - [x] 3. 基于CLion 和 CubeMx 的STM32开发
 - [x] 4. 基于CubeMx 和 KEIL 的STM32开发
-- [x] 5. 基于Pychram的python程序开发
+- [ ] 5. 基于Pychram的python程序开发
 
 &emsp;
 
