@@ -11,7 +11,8 @@
 - [x] 基于VScode的C程序开发
 - [x] 基于Pychram的python程序开发
  
- [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
 
 https://img.shields.io/badge/JAVA-1.8+-green.svg
 &emsp;
