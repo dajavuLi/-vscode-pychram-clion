@@ -19,23 +19,15 @@
 ![Open In Colab](https://img.shields.io/badge/update-2023.05.27-green.svg)
 ---
 #### <a id="jump1"> [开发避坑指南](https://note.youdao.com/s/Ia47aSut)</a>
-- 这篇笔记列出了笔者在进行开发时的踩过的坑
+- 笔记中记录了我在开发时的遇到的各种报错解决以及一些踩过的坑
 
 &emsp;
 ---
 #### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
-- 首先下载安装下述列表中的软件、搭建起环境
-
-1.[STM32CubeMX](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software) [ST公司提供的自动化配置和生成代码工具]
-2.[Clion](https://pan.baidu.com/s/1pZKVNuuSGjd25cT76oO70A?pwd=k04e) [提取码:k04e][需要破解]
-3.[MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.tar.bz2/download) [用来提供编译环境]
-4.[OpenOCD](https://sourceforge.net/projects/openocd/postdownload) [用来下载仿真]
-5.[arm-none-eabi-gcc](https://developer.arm.com/downloads/-/gnu-rm) [用来提供嵌入式调试环境]
-6.[Java jre](https://www.azul.com/downloads/?package=jdk#zulu) [STM32CubeMx的依赖环境]
-- 在这篇笔记中介绍了如何对上述部分软件的破解和安装
-- 在这篇笔记中详细的介绍了针对 STM32 开发的 CLion 的配
-
-
+- 笔记中记录了搭建环境所需软件的破解和一些重要设置
+- 笔记中详细的介绍了开发STM32F103项目时CubeMx的具体配置
+- 笔记中详细的介绍了开发STM32F103项目时CLion 的具体配置
+- 笔记中详细的介绍了开发STM32F103项目时OpenOCD的具体配置
 &emsp;
 ---
 #### [基于CubeMx 和 KEIL 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
@@ -64,7 +56,12 @@
 -在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
 -在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
 
-
+1.[STM32CubeMX](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software) [ST公司提供的自动化配置和生成代码工具]
+2.[Clion](https://pan.baidu.com/s/1pZKVNuuSGjd25cT76oO70A?pwd=k04e) [提取码:k04e][需要破解]
+3.[MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.tar.bz2/download) [用来提供编译环境]
+4.[OpenOCD](https://sourceforge.net/projects/openocd/postdownload) [用来下载仿真]
+5.[arm-none-eabi-gcc](https://developer.arm.com/downloads/-/gnu-rm) [用来提供嵌入式调试环境]
+6.[Java jre](https://www.azul.com/downloads/?package=jdk#zulu) [STM32CubeMx的依赖环境]
 
 
 
