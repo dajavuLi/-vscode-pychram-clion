@@ -14,6 +14,23 @@
 - [x] 基于VScode的C程序开发
 - [x] 基于Pychram的python程序开发
  
+### 分割线的尺寸
+
+#### 3px 宽线条
+___
+
+#### 5px 宽线条
+___
+
+#### 10px 宽线条
+___
+
+<style>
+hr:nth-of-type(1) {
+  border-width: 3px 0 0 0 !important;
+}
+
+</style>
 
 
 
