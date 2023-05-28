@@ -9,10 +9,10 @@
 **[文档目录](#jump1)** 
 
 - [ ] 开发故障汇总[避坑指南]
-- [ ] 基于CLion和CubeMx的STM32开发
-- [X] 基于KEIL和CubeMx的STM32开发
-- [x] 基于VScode的C程序开发
-- [x] 基于Pychram的python程序开发
+- [ ] 基于 CLion 和 CubeMx 的STM32开发
+- [X] 基于 KEIL 和 CubeMx 的STM32开发
+- [x] 基于 VScode 的C程序开发
+- [x] 基于 Pychram 的python程序开发
 
 &emsp;
 
@@ -26,14 +26,14 @@
 
 &emsp;
 ---
-#### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
+#### [基于CLion和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 笔记中记录了搭建开发环境所需软件的破解和一些重要设置
 - 笔记中详细的介绍了开发STM32F103项目时 CubeMx的具体配置
 - 笔记中详细的介绍了开发STM32F103项目时 CLion 的具体配置
 - 笔记中详细的介绍了开发STM32F103项目时OpenOCD的具体配置
 &emsp;
 ---
-#### [基于 KEIL 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
+#### [基于KEIL和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 在这篇笔记介绍了如何使用CubeMx构建基于KEIL的STM32工程
 - 在这篇笔记中也介绍了笔者对于调整工程文件夹结构的一些浅薄理解和操作
 - 在这篇笔记中也介绍了keil的魔法棒详细配置
