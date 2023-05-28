@@ -15,7 +15,7 @@
 ---
 #### [程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)
 - 这篇笔记列出了笔者在进行开发时的踩过的坑
-
+---
 #### [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
 - 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
 
