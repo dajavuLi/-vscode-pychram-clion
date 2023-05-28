@@ -54,7 +54,7 @@
 - 在这篇笔记中也介绍如何使用Jlink-OB和USB转TTL串口进行程序的下载和调试
 
 
-#### [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
+### [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
 
 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
 
@@ -64,35 +64,13 @@
 - 看完这篇笔记你不会再有如何搭建一个C语言开发环境的困惑
 - 搭建环境只是开始，等待你的将是优雅的界面和迷人的C世界 
 
-#### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
+### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
 
 在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
 在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
 
 
 
-
-
-
-
-## 关于结构设计
-
-我视频中原版设计使用的`步进电机`+Harmonic的`谐波减速模组`，其中后者成本较高（我买的二手大概是600元一个），因此为了能让大家尽量复现本项目，我后期会添加一个`自制摆线针轮减速器`+`3D打印`的低成本方案。
-
-> 目前摆线减速器已经设计好了正在验证，预期会使用PC（或者亚克力）切割结合3D打印制作，精度有所下降但是功能都保持不变，整机硬件成本希望控制在2000元以内。
-
-设计好的摆线减速器见我的另一个仓库：[peng-zhihui/CycloidAcuratorNano ](https://github.com/peng-zhihui/CycloidAcuratorNano)
-
-![](5.Docs/1.Images/cycliod-nano.jpg)
-
-## 关于电路模块
-
-电路为了实现主要的机械臂运动控制功能其实核心就4块板子：
-
-* REF核心板
-* REF底板（也就是机械臂底座里面的控制器电路板）
-* 步进电机驱动
-* Peak示教器
 
 
 
