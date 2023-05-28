@@ -12,9 +12,8 @@
 - [x] 基于Pychram的python程序开发
  
 ![Open In Colab](https://img.shields.io/badge/version-2023.05.27-green.svg)
-![更新日期](https://colab.research.google.com/assets/colab-badge.svg)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 &emsp;
 
