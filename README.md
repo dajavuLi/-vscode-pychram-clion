@@ -4,16 +4,15 @@
 
 **在不同的版本环境操作细节也许有别，如果按照笔记的方法操作未能通过，请您理解，更不要钻入牛角尖**
 
-**[文档目录](#jump1)** ![Open In Colab](https://img.shields.io/badge/version-2023.05.27-green.svg)
+**[文档目录]
 - [ ] 开发避坑指南
 - [ ] 基于CLion和CubeMx 的STM32开发
 - [X] 基于CubeMx和KEIL的STM32开发
 - [x] 基于VScode的C程序开发
 - [x] 基于Pychram的python程序开发
  
-![Open In Colab](https://img.shields.io/badge/version-1.1-green)
-![Open In Colab](https://img.shields.io/badge/version-1.8+-green.svg)
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+(#jump1)** ![Open In Colab](https://img.shields.io/badge/version-2023.05.27-green.svg)
+![更新日期](https://colab.research.google.com/assets/colab-badge.svg)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
