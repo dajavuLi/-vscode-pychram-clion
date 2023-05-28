@@ -19,16 +19,16 @@
 ![Open In Colab](https://img.shields.io/badge/update-2023.05.27-green.svg)
 ---
 #### <a id="jump1"> [开发故障汇总[避坑指南]](https://note.youdao.com/s/Ia47aSut)</a>
-- 记录 CLion C程序开发时遇到的故障
-- 记录 CLion\CubeMx\OpenOCD\Jlink-OB STM32项目开发时遇到的故障
-- 记录 Keil\CubeMx\Jlink-OB\USB转TTL STM32项目开发时遇到的故障
-- 记录 VScode C程序开发时遇到的故障
+- 笔记中记录了 CLion C程序开发时遇到的故障
+- 笔记中记录了 CLion\CubeMx\OpenOCD\Jlink-OB STM32项目开发时遇到的故障
+- 笔记中记录了 Keil\CubeMx\Jlink-OB\USB转TTL STM32项目开发时遇到的故障
+- 笔记中记录了 VScode C程序开发时遇到的故障
 
 &emsp;
 ---
 #### [基于CLion和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
-- 笔记中记录了搭建开发环境所需软件的破解和一些重要设置
-- 笔记中详细的介绍了开发STM32F103项目时 CubeMx的具体配置
+- 笔记中介绍了搭建开发环境所需软件的破解和一些重要设置
+- 笔记中介绍了开发STM32F103项目时CubeMx的具体配置
 - 笔记中详细的介绍了开发STM32F103项目时 CLion 的具体配置
 - 笔记中详细的介绍了开发STM32F103项目时OpenOCD的具体配置
 &emsp;
