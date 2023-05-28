@@ -23,9 +23,8 @@
 
 &emsp;
 ---
-#### [基于CLion 和 CubeMx 的STM32开发][[有道云笔记](https://note.youdao.com/s/OiOrOPUA)]
-- 这篇笔记介绍了在CLion中调试STM32单片机需要的环境
- <details><summary>在windows下需要安装如下软件：</summary>
+#### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
+<details><summary>在windows下需要安装如下软件：</summary>
  <p>
  STM32CubeMX   (用来自动化配置和生成代码)
   
@@ -40,7 +39,7 @@
  Java jre    (用来给STM32CubeMX提供Java环境)
  </p>
  </details>
-
+- 这篇笔记介绍了在CLion中调试STM32单片机需要的环境
 - 在这篇笔记中详细的介绍了针对 STM32 开发的 CLion 的配
 
 
@@ -48,11 +47,10 @@
 ---
 #### [基于CubeMx 和 KEIL 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 在这篇笔记介绍了如何使用CubeMx构建基于KEIL的STM32工程
-  - 里边有我找到两个很不错的构建视频，看起来很直观。 
 - 在这篇笔记中也介绍了笔者对于调整工程文件夹结构的一些浅薄理解和操作
 - 在这篇笔记中也介绍了keil的魔法棒详细配置
 - 在这篇笔记中也介绍如何使用Jlink-OB和USB转TTL串口进行程序的下载和调试
-
+- 里边有我找到两个很不错的构建视频，看起来很直观。 
 
 &emsp;
 ---
