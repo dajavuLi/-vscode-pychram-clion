@@ -12,6 +12,9 @@
 - [x] 基于Pychram的python程序开发
  
  ![Open In Colab](https://img.shields.io/badge/version-1.1-green)
+ <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://camo.githubusercontent.com/33126b4770aa6f169b2a93e75678d52647f19972fa8d205e478049966e3b1a07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d737461626c652d627269676874677265656e2e7376673f7374796c653d666c6174266c6f6e6743616368653d74727565
+"></a>
+
 
 
 &emsp;
