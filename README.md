@@ -23,7 +23,7 @@
 
 &emsp;
 ---
-#### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)[有道云笔记](https://note.youdao.com/s/OiOrOPUA)
+#### [基于CLion 和 CubeMx 的STM32开发][[有道云笔记](https://note.youdao.com/s/OiOrOPUA)]
 - 这篇笔记介绍了在CLion中调试STM32单片机需要的环境
  <details><summary>在windows下需要安装如下软件：</summary>
  <p>
