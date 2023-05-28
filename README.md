@@ -18,7 +18,7 @@
 
 ![Open In Colab](https://img.shields.io/badge/update-2023.05.27-green.svg)
 ---
-#### <a id="jump1"> [开发故障汇总[避坑指南]](https://note.youdao.com/s/Ia47aSut)</a>.有道云笔记
+#### <a id="jump1"> [开发故障汇总[避坑指南]](https://note.youdao.com/s/Ia47aSut)</a>
 - 记录 CLion C程序开发时遇到的故障
 - 记录 CLion\CubeMx\OpenOCD\Jlink-OB STM32项目开发时遇到的故障
 - 记录 Keil\CubeMx\Jlink-OB\USB转TTL STM32项目开发时遇到的故障
@@ -26,14 +26,14 @@
 
 &emsp;
 ---
-#### [基于CLion和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA).有道云笔记
+#### [基于CLion和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 笔记中记录了搭建开发环境所需软件的破解和一些重要设置
 - 笔记中详细的介绍了开发STM32F103项目时 CubeMx的具体配置
 - 笔记中详细的介绍了开发STM32F103项目时 CLion 的具体配置
 - 笔记中详细的介绍了开发STM32F103项目时OpenOCD的具体配置
 &emsp;
 ---
-#### [基于KEIL和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA).有道云笔记
+#### [基于KEIL和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 笔记中介绍了如何使用CubeMx构建基于KEIL的STM32工程
 - 笔记中介绍了笔者对于调整工程文件夹结构的一些浅薄理解和操作
 - 笔记中介绍了keil的魔法棒详细配置
@@ -42,7 +42,7 @@
 
 &emsp;
 ---
-#### [基于VScode的C程序开发](https://note.youdao.com/s/CisHoFe).有道云笔记
+#### [基于VScode的C程序开发](https://note.youdao.com/s/CisHoFe)
 
 - 笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
 - 笔记中介绍了多文件程序开发，例如：构造一个学生信息管理系统
@@ -54,7 +54,7 @@
 
 &emsp;
 ---
-#### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg).有道云笔记
+#### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
 
 -笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
 -笔记中介绍了 pip 的快速加载、jupyter notebook 的简单操作
