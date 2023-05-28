@@ -12,7 +12,7 @@
 - [x] 基于Pychram的python程序开发
 
 <span  style="color: #0969DA; ">再给点颜色你看看</span> 
-- ![再给点颜色你看看](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+![再给点颜色你看看](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 &emsp;
 
 #### <a id="jump1"> [开发避坑指南](https://note.youdao.com/s/Ia47aSut)</a>
