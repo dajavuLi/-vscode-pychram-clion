@@ -10,7 +10,7 @@
 - [X] 基于CubeMx和KEIL的STM32开发
 - [x] 基于VScode的C程序开发
 - [x] 基于Pychram的python程序开发
-
+https://img.shields.io/badge/JAVA-1.8+-green.svg
 &emsp;
 
 #### <a id="jump1"> [开发避坑指南](https://note.youdao.com/s/Ia47aSut)</a>
