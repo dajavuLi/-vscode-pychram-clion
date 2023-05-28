@@ -53,10 +53,10 @@
 - 在这篇笔记中也介绍了keil的魔法棒详细配置
 - 在这篇笔记中也介绍如何使用Jlink-OB和USB转TTL串口进行程序的下载和调试
 
-&emsp;
----
-#### [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
-- 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
+
+## [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
+
+在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
 
 - 在这篇笔记中详细的介绍了多文件程序开发，例如：构造一个学生信息管理系统
 - 多文件程序通常指包含多个头文件和源文件，他们彼此之间互相调用和依赖
@@ -64,38 +64,14 @@
 - 看完这篇笔记你不会再有如何搭建一个C语言开发环境的困惑
 - 搭建环境只是开始，等待你的将是优雅的界面和迷人的C世界 
 
-&emsp;
----
-#### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
-- 在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
-- 在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
+## [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
 
-
-
-# Dummy-Robot: Super compact smart robotic-arm
-> **我的超迷你机械臂机器人项目。**
->
-> 视频介绍：[【自制】我造了一台 钢 铁 侠 的 机 械 臂 ！【硬核】](https://www.bilibili.com/video/BV12341117rG)
->
-> Video : [I made a DUMMY ROBOTIC ARM from scratch！ - YouTube](https://www.youtube.com/watch?v=F29vrvUwqS4)
-
-![](5.Docs/1.Images/dummy1.jpg)
-
-![](5.Docs/1.Images/case.png)
+在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
+在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
 
 
 
 
-
-> 这是视频中原版机械臂的完整设计方案，该方案成本和制作难度都比较高，因此想复现的同学建议再等等我后面会发布的**Dummy青春版**，该版本会有如下改进：
->
-> 1. 整机重新设计结构，改用3D打印作为制造方案（原版为铝CNC），大幅降低制造成本
-> 2. 采用我自己设计的小型摆线针轮减速器替代原版的谐波减速器，大幅降低零件成本
-> 3. 所有软件和固件和原版通用，功能也完全一致
-> 4. 添加我自己设计的PC端上位机和手机端APP（争取把用户初始化设置引导加进去）
-> 5. 改进原版电机驱动器的走线方式，原版电源走线采用焊接的形式，不便于安装和拆卸，后面的青春版会使用4p接插件（电源+CAN总线）连接
-> 6. 整机成本争取做到2000以内
-> 7. **最重要的，会找人出一个保姆级的视频教程！**
 
 
 
