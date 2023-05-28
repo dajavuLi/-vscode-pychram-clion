@@ -20,7 +20,6 @@
 ---
 #### <a id="jump1"> [开发避坑指南](https://note.youdao.com/s/Ia47aSut)</a>
 - 这篇笔记列出了笔者在进行开发时的踩过的坑
-
 &emsp;
 ---
 #### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
