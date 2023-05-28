@@ -39,6 +39,7 @@
  Java jre    (用来给STM32CubeMX提供Java环境)
  </p>
  </details>
+ 
 - 这篇笔记介绍了在CLion中调试STM32单片机需要的环境
 - 在这篇笔记中详细的介绍了针对 STM32 开发的 CLion 的配
 
