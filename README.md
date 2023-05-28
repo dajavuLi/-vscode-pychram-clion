@@ -23,7 +23,7 @@
 - 这篇笔记列出了笔者在进行开发时的踩过的坑
 
 &emsp;
-
+---
 #### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 这篇笔记介绍了在CLion中调试STM32单片机需要的环境
  <details><summary>在windows下需要安装如下软件：</summary>
@@ -45,7 +45,7 @@
 - 在这篇笔记中详细的介绍了针对 STM32 开发的 CLion 的配
 
 &emsp;
-
+---
 #### [基于CubeMx 和 KEIL 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 在这篇笔记介绍了如何使用CubeMx构建基于KEIL的STM32工程
   - 里边有我找到两个很不错的构建视频，看起来很直观。 
@@ -55,7 +55,7 @@
 
 
 &emsp;
-
+---
 #### [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
 
 - 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
@@ -66,7 +66,7 @@
 - 搭建环境只是开始，等待你的将是优雅的界面和迷人的C世界 
 
 &emsp;
-
+---
 #### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
 
 -在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
