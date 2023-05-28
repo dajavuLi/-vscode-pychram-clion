@@ -13,7 +13,7 @@
  
 ![Open In Colab](https://img.shields.io/badge/version-2023.05.27-green.svg)
 
-![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 &emsp;
 
