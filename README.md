@@ -27,17 +27,17 @@
 <details><summary>首先要确保在windows下搭建好这些环境</summary>
  <p>
 
-  - [STM32CubeMX](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software)   (用来自动化配置和生成代码)
+  - [STM32CubeMX](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software) [用来自动化配置和生成代码]
   
- - [Clion](https://pan.baidu.com/s/1pZKVNuuSGjd25cT76oO70A?pwd=k04e)   [提取码：k04e]
+ - [Clion](https://pan.baidu.com/s/1pZKVNuuSGjd25cT76oO70A?pwd=k04e) [提取码：k04e]
   
- - [MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.tar.bz2/download)
+ - [MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.tar.bz2/download) [用来提供编译环境]
   
- - [OpenOCD](https://sourceforge.net/projects/openocd/postdownload)     (用来下载仿真)
+ - [OpenOCD](https://sourceforge.net/projects/openocd/postdownload) [用来下载仿真]
   
- - [arm-none-eabi-gcc](https://developer.arm.com/downloads/-/gnu-rm)    （用来提供交叉编译）
+ - [arm-none-eabi-gcc](https://developer.arm.com/downloads/-/gnu-rm) [用来提供嵌入式调试环境]
   
- - [Java jre](https://www.azul.com/downloads/?package=jdk#zulu)    (用来给STM32CubeMX提供Java环境)
+ - [Java jre](https://www.azul.com/downloads/?package=jdk#zulu) [STM32CubeMx的依赖环境]
  </p>
  </details>
  
