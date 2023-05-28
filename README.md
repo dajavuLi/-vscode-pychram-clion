@@ -8,7 +8,7 @@
 
 **[文档目录](#jump1)** 
 
-- [ ] 开发踩坑指南
+- [ ] 开发故障汇总[避坑指南]
 - [ ] 基于CLion和CubeMx 的STM32开发
 - [X] 基于CubeMx和KEIL的STM32开发
 - [x] 基于VScode的C程序开发
@@ -18,15 +18,18 @@
 
 ![Open In Colab](https://img.shields.io/badge/update-2023.05.27-green.svg)
 ---
-#### <a id="jump1"> [开发避坑指南](https://note.youdao.com/s/Ia47aSut)</a>
-- 笔记中记录了我在开发时的遇到的各种报错解决以及一些踩过的坑
+#### <a id="jump1"> [开发故障汇总[避坑指南]](https://note.youdao.com/s/Ia47aSut)</a>
+- 记录 CLion C 程序开发时遇到的故障
+- 记录 CLion\CubeMx\OpenOCD\Jlink-OB进行STM32项目开发时遇到的故障
+- 记录 Keil CubeMx STM32 项目开发时遇到的故障
+- 记录 VScode C 程序开发时遇到的故障
 
 &emsp;
 ---
 #### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 笔记中记录了搭建开发环境所需软件的破解和一些重要设置
-- 笔记中详细的介绍了开发STM32F103项目时CubeMx的具体配置
-- 笔记中详细的介绍了开发STM32F103项目时CLion 的具体配置
+- 笔记中详细的介绍了开发STM32F103项目时 CubeMx的具体配置
+- 笔记中详细的介绍了开发STM32F103项目时 CLion 的具体配置
 - 笔记中详细的介绍了开发STM32F103项目时OpenOCD的具体配置
 &emsp;
 ---
