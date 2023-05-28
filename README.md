@@ -4,7 +4,8 @@
 
 **在不同的版本环境操作细节也许有别，如果按照笔记的方法操作未能通过，请您理解，更不要钻入牛角尖**
 
-**[文档目录](#jump1)** 
+**[文档目录](#jump1)** ![Github](https://img.shields.io/badge/更新日期23.5.27-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 - [ ] 开发避坑指南
 - [ ] 基于CLion和CubeMx 的STM32开发
 - [X] 基于CubeMx和KEIL的STM32开发
@@ -13,7 +14,6 @@
  
 ![Open In Colab](https://img.shields.io/badge/version-2023.05.27-green.svg)
 
-![Github](https://img.shields.io/badge/更新日期23.5.27-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 &emsp;
 
