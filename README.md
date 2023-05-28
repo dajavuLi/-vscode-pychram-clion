@@ -27,15 +27,15 @@
 <details><summary>首先要确保在windows下搭建好这些环境</summary>
  <p>
 
-  - STM32CubeMX   (用来自动化配置和生成代码)
+  - [STM32CubeMX](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software)   (用来自动化配置和生成代码)
   
- - Clion    (笔记中给出了一些破解方法[仅供交流学习，切勿用作商业途径])
+ - [Clion](https://pan.baidu.com/s/1pZKVNuuSGjd25cT76oO70A?pwd=k04e)   [提取码：k04e]
   
- - MinGW    (用来给CLion中的工具链配置环境)
+ - [MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.tar.bz2/download)
   
- - OpenOCD     (用来下载仿真)
+ - [OpenOCD](https://sourceforge.net/projects/openocd/postdownload)     (用来下载仿真)
   
- - arm-none-eabi-gcc    （用来提供交叉编译）
+ - [arm-none-eabi-gcc](https://developer.arm.com/downloads/-/gnu-rm)    （用来提供交叉编译）
   
  - [Java jre](https://www.azul.com/downloads/?package=jdk#zulu)    (用来给STM32CubeMX提供Java环境)
  </p>
