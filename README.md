@@ -7,7 +7,7 @@
 **[文档目录](#jump1)**（更新于2023-05-27）
 - [ ] 程序开发排(遇)错(坑)集
 - [ ] 基于CLion 和 CubeMx 的STM32开发
-- [ ] 基于CubeMx 和 KEIL 的STM32开发
+- [ ] 基于CubeMx 和 KEIL 的STM32开发v
 - [x] 基于vscode的c程序开发
 - [x] 基于Pychram的python程序开发
 
