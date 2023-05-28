@@ -37,7 +37,7 @@
   
  - arm-none-eabi-gcc    （用来提供交叉编译）
   
- - Java jre    (用来给STM32CubeMX提供Java环境)
+ - [Java jre](https://www.azul.com/downloads/?package=jdk#zulu)    (用来给STM32CubeMX提供Java环境)
  </p>
  </details>
  
