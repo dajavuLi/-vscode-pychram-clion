@@ -54,7 +54,7 @@
 
 &emsp;
 ---
-#### [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
+#### [基于VScode的c程序开发](https://note.youdao.com/s/CisHoFe)
 
 - 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
 - 在这篇笔记中详细的介绍了多文件程序开发，例如：构造一个学生信息管理系统
