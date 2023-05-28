@@ -42,7 +42,6 @@
 &emsp;
 ---
 #### [基于VScode的C程序开发](https://note.youdao.com/s/CisHoFe)
-
 - 笔记中详细介绍了单文件程序开发，例如：运行一个“hello world”程序
 - 笔记中详细介绍了多文件程序开发，例如：构造一个学生信息管理系统[包含多个文件]
 - 笔记中详细介绍了常见的 GDB命令\makefile编写规则
@@ -51,15 +50,5 @@
 &emsp;
 ---
 #### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
-
--笔记中详细介绍了 anaconda、opencv、pycharm 的安装\激活
--笔记中介绍了 pip 的快速加载、jupyter notebook 的简单操作
-
-
-
-
-
-
-
-
-
+- 笔记中详细介绍了 anaconda、opencv、pycharm 的安装\激活
+- 笔记中介绍了 pip 的快速加载、jupyter notebook 的简单操作
