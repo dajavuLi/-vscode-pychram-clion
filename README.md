@@ -9,10 +9,10 @@
 **[文档目录](#jump1)** 
 
 - [ ] 开发故障汇总[避坑指南]
-- [ ] 基于 CLion 和 CubeMx 的STM32开发
-- [X] 基于 KEIL 和 CubeMx 的STM32开发
-- [x] 基于 VScode 的C程序开发
-- [x] 基于 Pychram 的python程序开发
+- [ ] 基于CLion和CubeMx的STM32开发
+- [X] 基于KEIL和CubeMx的STM32开发
+- [x] 基于VScode的C程序开发
+- [x] 基于Pychram的python程序开发
 
 &emsp;
 
