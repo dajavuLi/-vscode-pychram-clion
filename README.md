@@ -11,10 +11,11 @@
 - [x] 基于VScode的C程序开发
 - [x] 基于Pychram的python程序开发
  
- [[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+ [![Open In Colab](https://img.shields.io/badge/JAVA-1.8+-green.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb)     
 
 
-https://img.shields.io/badge/JAVA-1.8+-green.svg
+
+
 &emsp;
 
 #### <a id="jump1"> [开发避坑指南](https://note.youdao.com/s/Ia47aSut)</a>
