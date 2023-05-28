@@ -3,7 +3,7 @@
 **为了避免自己再次走弯路和掉进坑里，也希望能够帮助到有缘人，所以将这些操作尽可能详细的记录下来**
 
 **在不同的版本环境操作细节也许有别，如果按照笔记的方法操作未能通过，请您理解，更不要钻入牛角尖**
-
+![Github](https://img.shields.io/badge/更新日期23.5.27-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 **[文档目录](#jump1)** 
 
 - [ ] 开发避坑指南
@@ -12,7 +12,8 @@
 - [x] 基于VScode的C程序开发
 - [x] 基于Pychram的python程序开发
  
-![Github](https://img.shields.io/badge/更新日期23.5.27-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Open In Colab](https://img.shields.io/badge/version-2023.05.27-green.svg)
 
 &emsp;
 
