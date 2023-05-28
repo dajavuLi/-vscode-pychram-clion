@@ -25,6 +25,7 @@
 ---
 #### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 首先下载安装下述列表中的软件、搭建起环境
+
   1.[STM32CubeMX](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software) [ST公司提供的自动化配置和生成代码工具]
   2.[Clion](https://pan.baidu.com/s/1pZKVNuuSGjd25cT76oO70A?pwd=k04e) [提取码:k04e][需要破解]
   3.[MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.tar.bz2/download) [用来提供编译环境]
