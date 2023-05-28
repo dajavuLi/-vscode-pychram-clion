@@ -19,10 +19,10 @@
 ![Open In Colab](https://img.shields.io/badge/update-2023.05.27-green.svg)
 ---
 #### <a id="jump1"> [开发故障汇总[避坑指南]](https://note.youdao.com/s/Ia47aSut)</a>
-- 记录 CLion C 程序开发时遇到的故障
-- 记录 CLion\CubeMx\OpenOCD\Jlink-OB STM32 项目开发时遇到的故障
-- 记录 Keil\CubeMx\Jlink-OB\串口 STM32 项目开发时遇到的故障
-- 记录 VScode C 程序开发时遇到的故障
+- 记录 CLion C程序开发时遇到的故障
+- 记录 CLion\CubeMx\OpenOCD\Jlink-OB STM32项目开发时遇到的故障
+- 记录 Keil\CubeMx\Jlink-OB\串口 STM32项目开发时遇到的故障
+- 记录 VScode C程序开发时遇到的故障
 
 &emsp;
 ---
