@@ -19,12 +19,8 @@
 ---
 #### <a id="jump1"> [开发避坑指南](https://note.youdao.com/s/Ia47aSut)</a>
 - 这篇笔记列出了笔者在进行开发时的踩过的坑
-
-
-&emsp;
-
-#### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 ---
+#### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 这篇笔记介绍了在CLion中调试STM32单片机需要的环境
  <details><summary>在windows下需要安装如下软件：</summary>
  <p>
