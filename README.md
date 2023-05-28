@@ -12,7 +12,7 @@
 - [x] 基于Pychram的python程序开发
  
  ![Open In Colab](https://img.shields.io/badge/version-1.1-green)
-
+![Open In Colab](https://img.shields.io/badge/version-1.8+-green.svg)
  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 
