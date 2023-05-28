@@ -11,8 +11,6 @@
 - [x] 基于VScode的C程序开发
 - [x] 基于Pychram的python程序开发
 
-<span  style="color: #0969DA; ">再给点颜色你看看</span> 
-
 &emsp;
 
 #### <a id="jump1"> [开发避坑指南](https://note.youdao.com/s/Ia47aSut)</a>
