@@ -15,6 +15,7 @@
 - [x] 基于Pychram的python程序开发
 
 ![Open In Colab](https://img.shields.io/badge/update-2023.05.27-green.svg)
+
 &emsp;
 ---
 #### <a id="jump1"> [开发避坑指南](https://note.youdao.com/s/Ia47aSut)</a>
