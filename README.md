@@ -22,17 +22,17 @@
 - 这篇笔记介绍了在CLion中调试STM32单片机需要的环境，在windows下需要安装
 <details><summary>如下软件：</summary>
 <p>
-- STM32CubeMX   (用来自动化配置和生成代码)
+STM32CubeMX   (用来自动化配置和生成代码)
   
--  Clion    (笔记中给出了一些破解方法[仅供交流学习，切勿用作商业途径])
+Clion    (笔记中给出了一些破解方法[仅供交流学习，切勿用作商业途径])
   
--  MinGW    (用来给CLion中的工具链配置环境)
+MinGW    (用来给CLion中的工具链配置环境)
   
--  OpenOCD     (用来下载仿真)
+OpenOCD     (用来下载仿真)
   
--  arm-none-eabi-gcc    （用来提供交叉编译）
+arm-none-eabi-gcc    （用来提供交叉编译）
   
--  Java jre    (用来给STM32CubeMX提供Java环境)
+Java jre    (用来给STM32CubeMX提供Java环境)
 </p>
 </details>
 
