@@ -54,7 +54,12 @@
 - 在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
 - 在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
 
-&emsp;
----
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+</p>
+</details>
 
 
