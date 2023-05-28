@@ -15,7 +15,7 @@
 ![Open In Colab](https://img.shields.io/badge/version-1.8+-green.svg)
  ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 &emsp;
 
