@@ -5,11 +5,11 @@
 **在不同的版本环境操作细节也许有别，如果按照笔记的方法操作未能通过，请您理解，更不要钻入牛角尖**
 
 **[文档目录](#jump1)**（更新于2023-05-27）
-- [ ] 程序开发排错避坑指南
-- [ ] 基于 CLion 和 CubeMx 的 STM32 开发
-- [ ] 基于 CubeMx 和 KEIL 的 STM32 开发
-- [x] 基于 VScode 的 C 程序开发
-- [x] 基于 Pychram 的 python 程序开发
+- [ ] 程序开发排错避坑指南(待续...)
+- [ ] 基于CLion和CubeMx 的STM32开发
+- [X] 基于CubeMx和KEIL的STM32开发
+- [x] 基于VScode的C程序开发
+- [x] 基于Pychram的python程序开发
 
 &emsp;
 
