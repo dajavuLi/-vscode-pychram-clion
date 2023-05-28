@@ -34,37 +34,28 @@
 &emsp;
 ---
 #### [基于KEIL和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
-- 笔记中介绍了如何使用CubeMx构建基于KEIL的STM32工程
-- 笔记中介绍了笔者对于调整工程文件夹结构的一些浅薄理解和操作
-- 笔记中介绍了keil的魔法棒详细配置
-- 笔记中介绍了如何使用Jlink-OB和USB转TTL串口进行程序的下载和调试
-- 里边有我找到两个很不错的构建视频，看起来很直观。 
+- 笔记中列举了开发 STM32F103项目时 CubeMx的配置教程
+- 笔记中介绍了调整新建工程文件夹结构的一些浅薄理解和操作
+- 笔记中详细介绍了开发 STM32F103项目时 keil的魔法棒配置
+- 笔记中介绍了如何使用 Jlink-OB\USB转TTL 进行程序的下载和调试
 
 &emsp;
 ---
 #### [基于VScode的C程序开发](https://note.youdao.com/s/CisHoFe)
 
-- 笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
-- 笔记中介绍了多文件程序开发，例如：构造一个学生信息管理系统
-- 多文件程序通常指包含多个头文件和源文件，他们彼此之间互相调用和依赖
-- 笔记中介绍了 vscode 终端打印乱码等常见故障的排除方法
+- 笔记中详细介绍了单文件程序开发，例如：运行一个“hello world”程序
+- 笔记中详细介绍了多文件程序开发，例如：构造一个学生信息管理系统[包含多个文件]
+- 笔记中详细介绍了常见的 GDB命令\makefile编写规则
 - 看完这篇笔记你不会再有如何搭建一个C语言开发环境的困惑
-- 搭建环境只是开始，等待你的将是优雅的界面和迷人的C世界 
-
 
 &emsp;
 ---
 #### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
 
--笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
+-笔记中详细介绍了 anaconda、opencv、pycharm 的安装\激活
 -笔记中介绍了 pip 的快速加载、jupyter notebook 的简单操作
 
-1.[STM32CubeMX](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software) [ST公司提供的自动化配置和生成代码工具]
-2.[Clion](https://pan.baidu.com/s/1pZKVNuuSGjd25cT76oO70A?pwd=k04e) [提取码:k04e][需要破解]
-3.[MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.tar.bz2/download) [用来提供编译环境]
-4.[OpenOCD](https://sourceforge.net/projects/openocd/postdownload) [用来下载仿真]
-5.[arm-none-eabi-gcc](https://developer.arm.com/downloads/-/gnu-rm) [用来提供嵌入式调试环境]
-6.[Java jre](https://www.azul.com/downloads/?package=jdk#zulu) [STM32CubeMx的依赖环境]
+
 
 
 
