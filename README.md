@@ -3,6 +3,7 @@
 **为了避免自己再次走弯路和掉进坑里，也希望能够帮助到有缘人，所以将这些操作尽可能详细的记录下来**
 
 **在不同的版本环境操作细节也许有别，如果按照笔记的方法操作未能通过，请您理解，更不要钻入牛角尖**
+
 **[文档目录](#)**（更新于2023-05-27）
 - 程序开发排(遇)错(坑)集
 - 基于vscode的c程序开发
@@ -13,7 +14,6 @@
 #### [程序开发排(遇)错(坑)集锦](https://note.youdao.com/s/Ia47aSut)
 - 这篇笔记列出了笔者在进行开发时的踩过的坑
 
-
 #### [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
 - 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
 
@@ -22,9 +22,7 @@
 - 在这篇笔记中也介绍了 vscode 终端打印乱码等常见故障的排除方法
 > 看完这篇笔记你不会再有如何搭建一个C语言开发环境的困惑
 > 搭建环境只是开始，等待你的将是优雅的界面和迷人的C世界
-> 
-&emsp;
----
+
 #### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 这篇笔记介绍了在CLion中调试STM32单片机需要的环境，在windows下需要安装如下软件：
 >  STM32CubeMX   (用来自动化配置和生成代码)
@@ -35,8 +33,6 @@
 >  Java jre    (用来给STM32CubeMX提供Java环境)
 - 在这篇笔记中详细的介绍了针对 STM32 开发的 CLion 的配置
 
-&emsp;
-
 #### [基于CubeMx 和 KEIL 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 在这篇笔记介绍了如何使用CubeMx构建基于KEIL的STM32工程
   - 里边有我找到两个很不错的构建视频，看起来很直观。 
@@ -46,7 +42,6 @@
 
 - 在这篇笔记中也介绍如何使用Jlink-OB和USB转TTL串口进行程序的下载和调试
 
-&emsp;
 
 **[基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)**
 - 在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
