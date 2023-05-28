@@ -11,9 +11,7 @@
 - [x] 基于VScode的C程序开发
 - [x] 基于Pychram的python程序开发
  
- ![Open In Colab](https://img.shields.io/badge/version-1.8+-green.svg)
-
-	/docker/v/:user/:repo?arch=amd64&sort=date
+ ![Open In Colab](https://img.shields.io/badge/version-1.1-green)
 
 
 &emsp;
