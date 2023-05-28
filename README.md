@@ -13,19 +13,6 @@
 - [X] 基于CubeMx和KEIL的STM32开发
 - [x] 基于VScode的C程序开发
 - [x] 基于Pychram的python程序开发
- 
-
-
-
-#### 3px 宽线条
----
-
-<style>
-hr:nth-of-type(1) {
-  border-width: 3px 0 0 0 !important;
-}
-
-</style>
 
 
 
