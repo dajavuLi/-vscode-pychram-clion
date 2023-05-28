@@ -24,7 +24,7 @@
 
 &emsp;
 
-## [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
+#### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 这篇笔记介绍了在CLion中调试STM32单片机需要的环境
  <details><summary>在windows下需要安装如下软件：</summary>
  <p>
@@ -46,7 +46,7 @@
 
 &emsp;
 
-## [基于CubeMx 和 KEIL 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
+#### [基于CubeMx 和 KEIL 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 在这篇笔记介绍了如何使用CubeMx构建基于KEIL的STM32工程
   - 里边有我找到两个很不错的构建视频，看起来很直观。 
 - 在这篇笔记中也介绍了笔者对于调整工程文件夹结构的一些浅薄理解和操作
@@ -54,7 +54,7 @@
 - 在这篇笔记中也介绍如何使用Jlink-OB和USB转TTL串口进行程序的下载和调试
 
 
-## [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
+#### [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
 
 - 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
 - 在这篇笔记中详细的介绍了多文件程序开发，例如：构造一个学生信息管理系统
@@ -63,7 +63,7 @@
 - 看完这篇笔记你不会再有如何搭建一个C语言开发环境的困惑
 - 搭建环境只是开始，等待你的将是优雅的界面和迷人的C世界 
 
-## [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
+#### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
 
 -在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
 -在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
