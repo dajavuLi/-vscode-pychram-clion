@@ -54,6 +54,8 @@
 - 在这篇笔记中也介绍如何使用Jlink-OB和USB转TTL串口进行程序的下载和调试
 
 
+&emsp;
+
 #### [基于vscode的c程序开发](https://note.youdao.com/s/CisHoFe)
 
 - 在这篇笔记中详细的介绍了单文件程序开发，例如：运行一个“hello world”程序
@@ -62,6 +64,8 @@
 - 在这篇笔记中也介绍了 vscode 终端打印乱码等常见故障的排除方法
 - 看完这篇笔记你不会再有如何搭建一个C语言开发环境的困惑
 - 搭建环境只是开始，等待你的将是优雅的界面和迷人的C世界 
+
+&emsp;
 
 #### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
 
