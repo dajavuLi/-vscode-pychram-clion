@@ -26,12 +26,12 @@
 #### [基于CLion 和 CubeMx 的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 首先要下载安装下述列表中的软件搭建起环境
 
- - [STM32CubeMX](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software) [ST公司提供的自动化配置和生成代码工具]
- - [Clion](https://pan.baidu.com/s/1pZKVNuuSGjd25cT76oO70A?pwd=k04e) [提取码:k04e][需要破解]
- - [MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.tar.bz2/download) [用来提供编译环境]
- - [OpenOCD](https://sourceforge.net/projects/openocd/postdownload) [用来下载仿真]
- - [arm-none-eabi-gcc](https://developer.arm.com/downloads/-/gnu-rm) [用来提供嵌入式调试环境]
- - [Java jre](https://www.azul.com/downloads/?package=jdk#zulu) [STM32CubeMx的依赖环境]
+  - [STM32CubeMX](https://www.st.com/zh/development-tools/stm32cubemx.html#get-software) [ST公司提供的自动化配置和生成代码工具]
+  - [Clion](https://pan.baidu.com/s/1pZKVNuuSGjd25cT76oO70A?pwd=k04e) [提取码:k04e][需要破解]
+  - [MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/mingw-w64-v11.0.0.tar.bz2/download) [用来提供编译环境]
+  - [OpenOCD](https://sourceforge.net/projects/openocd/postdownload) [用来下载仿真]
+  - [arm-none-eabi-gcc](https://developer.arm.com/downloads/-/gnu-rm) [用来提供嵌入式调试环境]
+  - [Java jre](https://www.azul.com/downloads/?package=jdk#zulu) [STM32CubeMx的依赖环境]
  
 - 在这篇笔记中介绍了如何对上述部分软件的破解和安装
 - 在这篇笔记中详细的介绍了针对 STM32 开发的 CLion 的配
