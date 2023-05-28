@@ -34,9 +34,7 @@
 - 在这篇笔记介绍了如何使用CubeMx构建基于KEIL的STM32工程
   - 里边有我找到两个很不错的构建视频，看起来很直观。 
 - 在这篇笔记中也介绍了笔者对于调整工程文件夹结构的一些浅薄理解和操作
-
 - 在这篇笔记中也介绍了keil的魔法棒详细配置
-
 - 在这篇笔记中也介绍如何使用Jlink-OB和USB转TTL串口进行程序的下载和调试
 
 &emsp;
@@ -52,14 +50,11 @@
 
 &emsp;
 ---
-**[基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)**
+#### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
 - 在这篇笔记中详细介绍了 anaconda、opencv、pycharm 的详细安装\激活
-
 - 在这篇笔记中也介绍了 pip 的快速加载、jupyter notebook 的简单操作
-
 
 &emsp;
 ---
-
 
 
