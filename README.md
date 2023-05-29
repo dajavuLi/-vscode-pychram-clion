@@ -10,9 +10,9 @@
 
 - [ ] 开发故障汇总[避坑指南]
 - [ ] 基于CLion和CubeMx的STM32开发
-- [X] 基于KEIL和CubeMx的STM32开发
+- [X] 基于Keil5和CubeMx的STM32开发
 - [x] 基于VScode的C程序开发
-- [x] 基于Pychram的python程序开发
+- [x] 基于Pycharm的python程序开发
 
 &emsp;
 
@@ -34,7 +34,7 @@
 
 &emsp;
 ---
-#### [基于KEIL和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
+#### [基于Keil5和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
 - 笔记中列举了开发 STM32F103项目时 CubeMx的配置教程
 - 笔记中介绍了调整新建工程文件夹结构的一些浅薄理解和操作
 - 笔记中详细介绍了开发 STM32F103项目时 keil的魔法棒配置
@@ -50,6 +50,6 @@
 
 &emsp;
 ---
-#### [基于Pychram的python程序开发](https://note.youdao.com/s/QRXR7oEg)
+#### [基于Pycharm的python程序开发](https://note.youdao.com/s/QRXR7oEg)
 - 笔记中详细介绍了 anaconda、opencv、pycharm 的安装\激活
 - 笔记中介绍了 pip 的快速加载、jupyter notebook 的简单操作
