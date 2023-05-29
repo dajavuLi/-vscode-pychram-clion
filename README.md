@@ -23,7 +23,7 @@
 - 笔记中记录了 Keil\CubeMx\Jlink-OB\USB转TTL STM32项目开发时遇到的故障
 - 笔记中记录了 VScode C程序开发时遇到的故障
 - 笔记中记录了 CLion  C程序开发时遇到的故障
-- 
+
 &emsp;
 ---
 #### [基于CLion和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
