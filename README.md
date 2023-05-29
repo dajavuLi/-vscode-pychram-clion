@@ -10,7 +10,7 @@
 
 - [ ] 开发故障汇总[避坑指南]
 - [ ] 基于CLion和CubeMx的STM32开发
-- [X] 基于Keil5和CubeMx的STM32开发
+- [X] 基于 Keil5和CubeMx的STM32开发
 - [x] 基于VScode的C程序开发
 - [x] 基于Pycharm的python程序开发
 
