@@ -9,14 +9,14 @@
 **[文档目录](#jump1)** 
 
 - [ ] 开发故障汇总[避坑指南]
-- [ ] 基于CLion和CubeMx的STM32开发
+- [x] 基于CLion和CubeMx的STM32开发
 - [X] 基于Keil-5和CubeMx的STM32开发
 - [x] 基于VScode的C程序开发
 - [x] 基于Pycharm的python程序开发
 
 &emsp;
 
-![Open In Colab](https://img.shields.io/badge/update-2023.05.27-green.svg)
+![Open In Colab](https://img.shields.io/badge/update-2023.05.30-green.svg)
 ---
 #### <a id="jump1"> [开发故障汇总[避坑指南]](https://note.youdao.com/s/Ia47aSut)</a>
 - 笔记中记录了 CLion\CubeMx\OpenOCD\Jlink-OB STM32项目开发时遇到的故障
