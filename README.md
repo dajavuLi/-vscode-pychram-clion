@@ -34,7 +34,7 @@
 
 &emsp;
 ---
-#### [基于Keil5和CubeMx的STM32开发](https://note.youdao.com/s/OiOrOPUA)
+#### [基于Keil5和CubeMx的STM32开发](https://note.youdao.com/s/KN2t7Sya)
 - 笔记中列举了开发 STM32F103项目时 CubeMx的配置教程
 - 笔记中介绍了调整新建工程文件夹结构的一些浅薄理解和操作
 - 笔记中详细介绍了开发 STM32F103项目时 keil的魔法棒配置
